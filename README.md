@@ -1,17 +1,17 @@
 ## Flappy-Android
-let's create a beautiful Login-Ui in android in few steps.
+Let's create a beautiful Login-Ui in android in few steps.
 
 # :camera_flash: Screenshots 
 <table>
   <tr>
-    <td><img src="https://github.com/iamAjayJadhav/Flappy-Android/blob/master/Flappy/screenshots/Screenshot_flappy1.jpg" width=280 height=500></td>
-    <td><img src="https://github.com/iamAjayJadhav/Flappy-Android/blob/master/Flappy/screenshots/Screenshot_flappy2.jpg" width=280 height=500></td>
-    <td><img src="https://github.com/iamAjayJadhav/Flappy-Android/blob/master/Flappy/screenshots/Screenshot_flappy3.jpg" width=280 height=500></td>
+    <td><img src="https://github.com/iamAjayJadhav/Flappy-Android/blob/master/Flappy/screenshots/Screenshot_flappy1.jpg" ></td>
+    <td><img src="https://github.com/iamAjayJadhav/Flappy-Android/blob/master/Flappy/screenshots/Screenshot_flappy2.jpg" ></td>
+    <td><img src="https://github.com/iamAjayJadhav/Flappy-Android/blob/master/Flappy/screenshots/Screenshot_flappy3.jpg" ></td>
   </tr>
  </table>
 
 ## Steps:
-1. create a new project with Empty Activity with a minimum sdk:API 21:Android 5.0(Lollipop).
+1. Create a new project with Empty Activity with a minimum sdk:API 21:Android 5.0(Lollipop).
 
 2.  Add this Material dependencies in your build.gradle(Module:app) file.
 * **implementation 'com.google.android.material:material:1.2.0'**
@@ -19,7 +19,7 @@ let's create a beautiful Login-Ui in android in few steps.
 3. In your [styles.xml](https://github.com/iamAjayJadhav/Flappy-Android/blob/master/Flappy/values/styles.xml) file replace the **parent** with - **"Theme.MaterialComponents.Light.NoActionBar"** 
 * **<style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">**
 
-4. import the drawables from the flappy folder as shown.
+4. Import the drawables from the flappy folder as shown.
   <table>
   <tr>
     <td><img src=https://github.com/iamAjayJadhav/Flappy-Android/blob/master/Flappy/screenshots/screenshot_drawable.png></td>
