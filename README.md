@@ -1,7 +1,7 @@
-## Flappy-Android
-Let's create a beautiful Login-Ui in android in few steps.
+# Flappy-Android
+Let's create a Login user interface in android.
 
-# :camera_flash: Screenshots 
+## :camera_flash: Screenshots 
 <table>
   <tr>
     <td><img src="https://github.com/iamAjayJadhav/Flappy-Android/blob/master/Flappy/screenshots/Screenshot_flappy1.jpg" ></td>
