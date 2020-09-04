@@ -13,7 +13,7 @@ Let's create a Login user interface in android.
 ## Steps:
 1. Create a new project with Empty Activity with a minimum sdk:API 21:Android 5.0(Lollipop).
 
-2.  Add this Material dependencies in your build.gradle(Module:app) file.
+2.  Add this Material dependencies in your build.gradle(Module:app) file, After adding the dependencies click on **Sync Now** which is on the topright corner.
 * **implementation 'com.google.android.material:material:1.2.0'**
 
 3. In your [styles.xml](https://github.com/iamAjayJadhav/Flappy-Android/blob/master/Flappy/values/styles.xml) file replace the **parent** with - **"Theme.MaterialComponents.Light.NoActionBar"** 
